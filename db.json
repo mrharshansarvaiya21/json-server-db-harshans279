@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "user": "swucgwi",
+      "password": "eufheoc",
+      "id": 1
+    },
+    {
+      "user": "harshan",
+      "password": "eufheoc",
+      "id": 2
+    },
+    {
+      "user": "rah",
+      "password": "eufheoc",
+      "id": 3
+    },
+    {
+      "user": "raj",
+      "password": "eufheoc",
+      "id": 4
+    }
+  ]
+}
