@@ -1,24 +1,18 @@
 {
-  "users": [
+  "blogs": [
     {
-      "user": "swucgwi",
-      "password": "eufheoc",
-      "id": 1
-    },
-    {
-      "user": "harshan",
-      "password": "eufheoc",
-      "id": 2
-    },
-    {
-      "user": "rah",
-      "password": "eufheoc",
-      "id": 3
-    },
-    {
-      "user": "raj",
-      "password": "eufheoc",
-      "id": 4
+      "id":1,
+      "heading": "Tech lay off",
+      "content": "Tech lay off is a major change that shaking a world now, Major tech companies announced lay off in view of reccession, meta lay off 11000 employees, amazon lay off 10000 employees. These are the just starting of the list. There is a long list of that, As of now in 2022 alone 834 companies layoffs 134164 employees. You can get list of companies from https://layoffs.fyi/.  ",
+      "author": "Techie",
+      "shortIntro": "Tech lay off is a major change that shaking a world now....",
+      "timeToRead": 6
     }
-  ]
+  ],
+  "users" : [
+      {
+        "emailId":"harshan@gmail.com",
+        "password":"harshan"
+      }
+   ]
 }
